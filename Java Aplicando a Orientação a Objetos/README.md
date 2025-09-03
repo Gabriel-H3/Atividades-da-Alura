@@ -1,0 +1,1 @@
+Realização das Atividades do curso Java: aplicando a Orientação a Objetos. Cada pacote nomeado "atividade 1", "atividade 2" e a sequência são os módulos do curso, então dentro de cada pacote tem várias atividades
